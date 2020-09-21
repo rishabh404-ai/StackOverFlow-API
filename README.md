@@ -2,9 +2,7 @@
 
 Local Endpoint : http://127.0.0.1:8000/api/v1/stack-overflow/questions/
 
-API-Screenshot - 
-
-![](working-screenshot/screenshot.png)
+API-Screenshot is given in the working-screenshot folder 
 
 How to get the app running locally ?
 
